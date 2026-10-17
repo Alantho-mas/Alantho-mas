@@ -21,4 +21,5 @@
 
 ## 📫 Get in touch
 
+- LinkedIn: [alan-thomas-868131375](https://www.linkedin.com/in/alan-thomas-868131375)
 - Email: alanthomas20p@gmail.com
