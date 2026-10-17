@@ -26,6 +26,7 @@
 ## 📜 Certifications
 
 - Tata Cybersecurity Analyst Job Simulation
+- Grow Offline Sales — Google Digital Academy (Skillshop) · Issued Sep 2025 · Expires Sep 2026 · Credential ID 160005233
 
 ## 📊 GitHub Stats
 
