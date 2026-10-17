@@ -18,7 +18,7 @@
 | [Todo App](https://github.com/Alantho-mas/todo-app) | Task manager with add/edit/delete, filters, and localStorage persistence | HTML, CSS, JavaScript |
 | [Weather App](https://github.com/Alantho-mas/weather-app) | Live weather lookup by city with 5-day forecast (Open-Meteo API, no key needed) | HTML, CSS, JavaScript, REST API |
 | [Portfolio](https://github.com/Alantho-mas/portfolio) | Personal portfolio website | HTML, CSS, JavaScript |
-| [MiniLang](https://github.com/Alantho-mas/minilang) | A tiny programming language anyone can learn in 5 minutes — tokenizer, parser & interpreter from scratch, now with decisions and loops | JavaScript (Node.js) |
+| [MiniLang](https://github.com/Alantho-mas/minilang) | A tiny beginner-friendly programming language — variables, decisions, loops, reusable recipes (functions) and lists | JavaScript (Node.js) |
 
 ## 🎓 Education
 
