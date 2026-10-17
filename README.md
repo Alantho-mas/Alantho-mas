@@ -1,12 +1,13 @@
 # Hi there, I'm Alan Thomas 👋
 
-🎓 BCA undergraduate at St. Berchmans College, Kerala, India
-💻 Aspiring web developer — currently building with HTML, CSS & JavaScript
+🎓 BCA undergraduate at St. Berchmans College, Kerala, India (2025–2029)
+💻 Aspiring software developer — currently learning C, Java & web technologies
 🌱 Learning something new with every project I ship
+🔭 Open to internships, learning opportunities, and projects
 
 ## 🛠️ Skills
 
-**Languages:** HTML · CSS · JavaScript
+**Languages:** HTML · CSS · JavaScript · Java · C
 **Tools:** Git · GitHub · VS Code
 
 ## 📌 Projects
@@ -14,6 +15,14 @@
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
 | [Calculator](https://github.com/Alantho-mas/Calculator) | Responsive calculator web app with keyboard support and a hand-written safe expression parser | HTML, CSS, JavaScript |
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)** — St. Berchmans College, Changanassery (2025–2029)
+
+## 📜 Certifications
+
+- Tata Cybersecurity Analyst Job Simulation
 
 ## 📊 GitHub Stats
 
